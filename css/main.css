@@ -1,0 +1,17 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	background-image: url(../img/light_geometric.png);
+}
+.navbar-inverse .navbar-inner {
+	background-color: #333;
+	background-image: url(../img/dark_geometric.png);
+}
+
+.btn-primary {
+	background-color: #87BE3F;
+}
