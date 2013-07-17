@@ -29,3 +29,15 @@ hr {border-top: 4px solid #87BE3F;}
   margin-top:-40px;
   height: 200px;
 }
+.project dt {
+  width: 120px;
+}
+.project dd {
+  margin-left: 140px;
+}
+.project dd.label {
+  margin-left: 0;
+}
+.project p {
+  width: 600px;
+}
