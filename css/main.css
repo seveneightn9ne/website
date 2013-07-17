@@ -12,6 +12,9 @@ body {
 	background-image: url(../img/dark_geometric.png);
 }
 
+.nav {margin-bottom: -1px;}
+.nav li.active {border-bottom: 4px solid yellow;}
+
 /*.btn-primary {
 	background-color: #87BE3F; 
 }
