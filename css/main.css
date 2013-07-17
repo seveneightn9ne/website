@@ -12,8 +12,8 @@ body {
 	background-image: url(../img/dark_geometric.png);
 }
 
-.btn-primary {
-	background-color: #87BE3F;
+/*.btn-primary {
+	background-color: #87BE3F; 
 }
 
 .btn-primary {
@@ -40,4 +40,4 @@ body {
 .btn-primary[disabled] {
   color: #ffffff;
   background-color: #0044cc;
-}
+}*/
