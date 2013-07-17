@@ -36,8 +36,8 @@ hr {border-top: 4px solid #87BE3F;}
   margin-left: 140px;
 }
 .project dd.label {
-  margin-left: 0;
+  margin-left: 20px;
 }
 .project p {
-  width: 600px;
+  width: 800px;
 }
