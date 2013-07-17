@@ -1,6 +1,6 @@
 var d = new Date();
 var year = d.getFullYear();
-var sophomore = new Date("August 31, 2013 00:00:00");
+var sophomore = new Date("May 31, 2013 00:00:00");
 var junior = new Date("May 31, 2014 00:00:00");
 var senior = new Date("May 31, 2015 00:00:00");
 
