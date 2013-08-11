@@ -41,3 +41,7 @@ hr {border-top: 4px solid #87BE3F;}
 .project p {
   width: 800px;
 }
+.project h2 a {
+  font-size: 14px;
+  font-weight: normal;
+}
