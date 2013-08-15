@@ -48,6 +48,10 @@ hr {border-top: 4px solid #87BE3F;}
 }
 
 /*Home page*/
+.mainrow > div {
+  border-radius: 0;
+  padding: 0;
+}
 .mainrow img {
   width: 100%;
   height: 150px;
