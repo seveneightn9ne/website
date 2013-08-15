@@ -55,4 +55,5 @@ hr {border-top: 4px solid #87BE3F;}
 .mainrow img {
   width: 100%;
   max-width: 328px;
+  margin-bottom: 10px;
 }
