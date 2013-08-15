@@ -18,7 +18,7 @@ body {
 hr {border-top: 4px solid #87BE3F;}
 
 /*Projects*/
-.project, .mainrow > div {
+.project, .mainrow .inner{
   background-color: rgba(255,255,255,0.6);
   border-radius: 10px;
   border: 1px solid #ddd;
@@ -48,10 +48,10 @@ hr {border-top: 4px solid #87BE3F;}
 }
 
 /*Home page*/
-.mainrow > div {
+/*.mainrow .inner {
   border-radius: 0;
   padding: 0;
-}
+}*/
 .mainrow img {
   width: 100%;
   height: 150px;
