@@ -7,6 +7,12 @@
 body {
 	background-image: url(../img/light_geometric.png);
 }
+a {
+  color: #87BE3F;
+}
+a:hover {
+  color: #3B7200;
+}
 .navbar-inverse .navbar-inner {
 	background-color: #333;
 	background-image: url(../img/dark_geometric.png);
