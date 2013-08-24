@@ -63,3 +63,17 @@ hr {border-top: 4px solid #87BE3F;}
   max-width: 328px;
   margin-bottom: 10px;
 }
+
+/*Classes*/
+table.classes tr {
+  background-color: #fff;
+}
+table.classes th {
+  background-color: #f9f9f9;
+  font-size: 40px;
+  vertical-align: middle;
+  text-align: center;
+}
+table.classes ul {
+  list-style-type: none;
+}
