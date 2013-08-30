@@ -58,6 +58,9 @@ hr {border-top: 4px solid #87BE3F;}
   border-radius: 0;
   padding: 0;
 }*/
+.mainrow {
+  margin-top: 30px;
+}
 .mainrow img {
   width: 100%;
   max-width: 328px;
