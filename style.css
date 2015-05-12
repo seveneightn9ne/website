@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Crete+Round|Source+Code+Pro:400);
+html,body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    position: relative;
+    background-image: url(img/light_geometric.png);
+}
+main {
+    /* centering */
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    text-align: center;
+
+    /* top & bottom bars */
+    padding: 20px 20px 30px;
+    border: solid 2px #999;
+    border-width: 2px 0;
+}
+main h1 {
+    font: normal 48px 'Crete Round', serif;
+
+    margin-top: 0;
+    padding-top: 0;
+}
+nav a {
+    font-family: 'Source Code Pro', monospace;
+    color: #333;
+    text-decoration: none;
+    border-bottom: dashed 1px;
+    margin: 0 10px;
+}
+nav a:hover {
+    color: #000;
+    border-bottom-style: solid;
+}
