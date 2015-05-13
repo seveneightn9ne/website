@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Crete+Round|Source+Code+Pro:400);
+@import url(http://fonts.googleapis.com/css?family=Crete+Round|Source+Code+Pro);
 html,body {
     height: 100%;
     margin: 0;
@@ -15,6 +15,8 @@ main {
     transform: translate(-50%, -50%);
 
     text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    color: #333;
 
     /* top & bottom bars */
     padding: 20px 20px 30px;
@@ -28,7 +30,6 @@ main h1 {
     padding-top: 0;
 }
 nav a {
-    font-family: 'Source Code Pro', monospace;
     color: #333;
     text-decoration: none;
     border-bottom: dashed 1px;
@@ -37,4 +38,14 @@ nav a {
 nav a:hover {
     color: #000;
     border-bottom-style: solid;
+}
+
+nav a:nth-child(1):hover {
+    color: #C00;
+}
+nav a:nth-child(2):hover {
+    color: #D90;
+}
+nav a:nth-child(3):hover {
+    color: #090;
 }
