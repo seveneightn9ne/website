@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jessk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jesskenney.com
+  * I am jessk (https://keybase.io/jessk) on keybase.
+  * I have a public key with fingerprint CD71 5D75 C6E6 0148 298F  C015 17A2 3087 8B1A 3E2A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "cd715d75c6e60148298fc01517a230878b1a3e2a",
+            "host": "keybase.io",
+            "key_id": "17a230878b1a3e2a",
+            "kid": "01011de6f8a156006d0f8ff47dda13e97bdebad3d6a9352307ad7f43ac20acdc61710a",
+            "uid": "653ba091fa61606e5a3c8fb2086b3419",
+            "username": "jessk"
+        },
+        "service": {
+            "hostname": "jesskenney.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437492531,
+    "expire_in": 157680000,
+    "prev": "82c0c614ca5729370ded39e743de912a7fd6335ed90e5ef40c1392669e811899",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMIYAnicbZJ7SBRBHMfv6lQUetmTioLtQdZpMzu7s4+eVBi9jCDLIjhnd2Z173L3
+2j3PRIqioieKQQnRkwIlqKAMKSktJIiMIoIo1BIiCyoqg6D3rBT0R/PPML/f9/uZ
++Q6/jiGDQznhr7iz1py6OBG+d2tBZaj4IkM1guHSakGvERJsYLNsp4x5Sc92UoIu
+mFSBMlVkEzMMoKSKmmqZAMpQISICqqIakCAmEiEqlLt+4OAYg/iswHZ5jR9iNuXV
+/+gTAw0AAYSUYUslUMYAYAos1bIkhVICEdMUgzKDUEQx0ZDMGQqhiiUhYoqAmNTE
+UIEgwFUO4LCMDAI0aBEMMcBMJshULUMEKjaQBLVA6DPPIRWMq+PM9xPCtqjAS2nb
+ZEH+IMa/beY4rLrAdCu4Nem5Kdd0N/NeeSqV1ANrqjoZaKuYEftDiRm2Q/kvckOa
+eb7tOoIOudJM2QEWSkiRNFFGMCqwrUnbYzE7UMgKVgFfwTUszZGqaAKeTzKJrIga
+UgBlFGlMkRBlGhSJYlGMkMyoBpjMLAmYEGkixhpTIVS1IKvPtjiuoCP+TFLGkb5d
+5pBUpceEbbfbN0VC4ZxQZsagYA5COdnD/05Hwdysn3B768k75W3h9NWhO2r2ZZQc
+bOpKjO+RR2+g3XYi79yVRGNpovhZXk1+4YqWquuZr3t/zD62bOfeC7ioxUu36fTT
+z2OZnvMuXn/zx9snk6b07L19Y3oHzL/x2e87M25Xxfa5e+qK9UOhS6tejBv+MPdV
+14GJbdMWjVxSi3d9a28c8dh8UJf16OMjfw36PrnicnK9CK5FzrQu7cj9dbd3eeez
+UTOb278czHtzdGPG/ZnxE/POjwFOydrs08dLOwrX7W8u3NE9tiF2+G3d5qyzDXBh
+bqN3ZNKp5uf9urD1bP/8yIeqomht/cvs7otLFw/bPWHO6qZIf0l9dP+EWZF4Q58/
+Y2X+0/e/ATJEIkc=
+=1xm2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jessk
+
+==================================================================
+
