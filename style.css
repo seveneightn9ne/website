@@ -1,51 +1,86 @@
-@import url(https://fonts.googleapis.com/css?family=Crete+Round|Source+Code+Pro);
-html,body {
+@import 'fonts.css';
+html, body {
     height: 100%;
     margin: 0;
 }
+
 body {
     position: relative;
     background-image: url(img/light_geometric.png);
 }
+
 main {
     /* centering */
     position: absolute;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-
     text-align: center;
     font-family: 'Source Code Pro', monospace;
     color: #333;
-
-    /* top & bottom bars */
-    padding: 20px 20px 30px;
-    border: solid 2px #999;
-    border-width: 2px 0;
 }
+
+main>* {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+hr {
+    /* top & bottom bars */
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    height: 2px;
+    background-color: #999;
+    border-width: 0;
+}
+
+hr.middle {
+    margin-bottom: 20px;
+    height: 1px;
+}
+
 main h1 {
     font: normal 48px 'Crete Round', serif;
-
     margin-top: 0;
     padding-top: 0;
 }
+
+h2 {
+    font-family: 'Crete Round', serif;
+    font-weight: normal;
+    line-height: 1;
+    margin: 20px;
+}
+
 nav a {
     color: #333;
     text-decoration: none;
     border-bottom: dashed 1px;
     margin: 0 10px;
 }
+
+nav.projects {
+    text-align: left;
+}
+
 nav a:hover {
     color: #000;
     border-bottom-style: solid;
 }
 
-nav a:nth-child(1):hover {
+nav>a:nth-child(1):hover, nav.projects p:nth-child(1) a:hover {
     color: #C00;
 }
-nav a:nth-child(2):hover {
+
+nav>a:nth-child(2):hover, nav.projects p:nth-child(2) a:hover {
     color: #D90;
 }
-nav a:nth-child(3):hover {
+
+nav>a:nth-child(3):hover, nav.projects p:nth-child(3) a:hover {
     color: #090;
+}
+
+nav>a:nth-child(4):hover, nav.projects p:nth-child(4) a:hover {
+    color: #60A;
 }
